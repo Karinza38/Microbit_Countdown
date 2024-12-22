@@ -1,4 +1,3 @@
-
 > Open this page at [https://zcg-coder.github.io/microbit_countdown/](https://zcg-coder.github.io/microbit_countdown/)
 
 ## Use as Extension
